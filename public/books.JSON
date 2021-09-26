@@ -1,0 +1,94 @@
+[
+    
+        {
+            "img": "https://kbimages1-a.akamaihd.net/b6b5c7f8-fa2a-432d-8c68-d0e30180a3c9/1200/1200/False/accounting-theory-5.jpg",
+            "id": "242501",
+            "name": "Accounting Theory",
+            "publication":"Commerce Publication" ,
+            
+            "price": 1030
+            
+        },
+        {
+            "id": "242503",
+            "name": "advanced Auditing and professional ETHICS",
+            "publication":"commerce publication" ,
+            
+            
+            "img": "https://www.lionkart.com/media/www/images/products/advanced-auditing-and-professional-ethics-by-surbhi-bansal-0-1578031780.jpg",
+            "price": 360
+            
+        },
+        {
+            "id": "242505",
+            "name": "Accounting information system",
+           
+            "publication":"commerce publication" ,
+            
+            "img": "https://tse1.mm.bing.net/th?id=OIP.PU4Rqt-Jkn9mhh5y_uhrmgHaJg&pid=Api&P=0&w=300&h=300",
+            "price": 600
+            
+        },
+        {
+            "id": "242507",
+            "name": "organizational behaviour",
+            
+            "publication": "commerce publication",
+            
+            "img": "https://i.ytimg.com/vi/9F7f7lszbKc/maxresdefault.jpg",
+            "price": 500
+            
+        },
+        {
+            "id": "242509",
+            "name": "Corporate law and practice",
+           
+            "publication": "commerce publication",
+            
+            "img": "https://tse3.mm.bing.net/th?id=OIP.D1vnN4qW3mh79tqIGqQYigHaKi&pid=Api&P=0&w=300&h=300",
+            "price": 550
+        
+        },
+        {
+            "id": "242511",
+            "name": "working capital management & financial management",
+           
+            "publication":"commerce publication",
+            
+            "img": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/6458/9781645875543.jpg",
+            "price": 68.36
+            
+        },
+        {
+            "id": "242513",
+            "name": "advanced Accounting 2",
+            
+            "publication":"commerce publication" ,
+            
+            "img": "https://linkedsolph.com/image/cache/catalog/abc-advance2-1000x1000h.jpg",
+            "price": 68.36
+            
+        },
+        {
+            "id": "242515",
+            "name": "Investment analysis & portfolio management",
+            
+            "publication":"commerce publication" ,
+            
+            "img": "https://tse3.mm.bing.net/th?id=OIP.i9bxea3U37YxVmfEXjP8rwHaIt&pid=Api&P=0&w=300&h=300",
+            "price": 68.36
+            
+        },
+        {
+            "id": "242517",
+            "name": "Research Methodology",
+          
+            "publication":"commerce publication"  ,
+            
+            "img": "https://tse4.mm.bing.net/th?id=OIP.sVXepg82MUzKYBVH8ATOvQHaK-&pid=Api&P=0&w=300&h=300",
+            "price": 68.36
+            
+        }
+    
+    
+]
