@@ -9,9 +9,10 @@ const Cart = (props) => {
     return (
         <div className="cart-item">
             <h3>Order Items: {props.cart.length}</h3>
+            
             <br />
             <hr />
-            <p>Total: {total}</p>
+            <p>Total: ${total}</p>
         </div>
     );
 };
